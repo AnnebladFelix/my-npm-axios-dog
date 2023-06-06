@@ -1,0 +1,30 @@
+{
+  "name": "my-npm-axios-dog",
+  "version": "1.0.0",
+  "description": "A small package that fetches random dog images using axios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnebladFelix/my-npm-axios-dog.git"
+  },
+  "keywords": [
+    "dog",
+    "random",
+    "dog",
+    "axios",
+    "dog",
+    "picture"
+  ],
+  "author": "Felix Anneblad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnebladFelix/my-npm-axios-dog/issues"
+  },
+  "homepage": "https://github.com/AnnebladFelix/my-npm-axios-dog#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
